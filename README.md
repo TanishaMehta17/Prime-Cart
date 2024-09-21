@@ -1,6 +1,6 @@
 # Prime Cart
 
-**Primme Cart** is an Amazon-style e-commerce application designed to provide a seamless online shopping experience. Developed using a range of modern technologies, it includes features such as product listings, shopping cart functionality, and user authentication.
+**Prime Cart** is an Amazon-style e-commerce application designed to provide a seamless online shopping experience. Developed using a range of modern technologies, it includes features such as product listings, shopping cart functionality, and user authentication.
 
 ## Features
 
@@ -17,6 +17,17 @@
 - **NodeJs:** Used for backend services to manage API requests and server-side logic.
 - **REST API:** Integrated for real-time data exchange and updates, facilitating smooth communication between the client and server.
 - **Provider:** Implemented for state management to maintain application performance and provide a responsive user experience.
+ ## Installation 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/TanishaMehta17/Prime-Cart/
+2. **Get the dependecy:**
+   ```bash
+   flutter pub get
+   
+3. **Run the project:**
+   ```bash
+   flutter run
 
 ## Configuration
 
